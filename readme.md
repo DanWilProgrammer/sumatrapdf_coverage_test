@@ -2,7 +2,7 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: Sumatra PDF Reader
 
 URL: https://github.com/sumatrapdfreader/sumatrapdf
 
